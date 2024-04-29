@@ -1,0 +1,10 @@
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\bin\Debug\WGestionDeBiblioteca.exe.config
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\bin\Debug\WGestionDeBiblioteca.exe
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\bin\Debug\WGestionDeBiblioteca.pdb
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\obj\Debug\WGestionDeBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\obj\Debug\WGestionDeBiblioteca.Form1.resources
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\obj\Debug\WGestionDeBiblioteca.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\obj\Debug\WGestionDeBiblioteca.csproj.GenerateResource.cache
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\obj\Debug\WGestionDeBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\obj\Debug\WGestionDeBiblioteca.exe
+C:\Users\Santiago\OneDrive\Escritorio\Universidad\Tercer Semestre\POO1\Trabajos\WGestionDeBiblioteca\WGestionDeBiblioteca\obj\Debug\WGestionDeBiblioteca.pdb
