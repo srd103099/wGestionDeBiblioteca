@@ -48,7 +48,7 @@
   <ItemGroup>
     <Compile Include="clsLibro.cs" />
     <Compile Include="clsLibroDigital.cs" />
-    <Compile Include="clsLibroFidico.cs" />
+    <Compile Include="clsLibroFisico.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

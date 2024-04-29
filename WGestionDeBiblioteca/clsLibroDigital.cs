@@ -6,37 +6,17 @@ using System.Threading.Tasks;
 
 namespace WGestionDeBiblioteca
 {
-    internal class clsLibroDigital : clsLibroFisico;
-        public int NDescargas { get; set; }
+    internal class clsLibroDigital : clsLibro
+    {
+        private int NumeroDescargas { get; set; }
+        private int NumerosVendidos { get; set; }
+        public clsLibroDigital(string titulolibro, string autorlibro, string isbnlibro, string editoriallibro, string clasificacionlibro, double valorlibro, string estadolibro, int numerosdescargas, int numerosvendidos)
+            : base(titulolibro, autorlibro, isbnlibro, editoriallibro, clasificacionlibro, valorlibro, estadolibro)
+               {
+                    NumeroDescargas = numerosdescargas;
+                    NumerosVendidos = numerosvendidos;
+               }
 
-        public int LibrosVendidos { get; set; }
-        public bool LibroDigital { get; set; }
-        public clsLibroDigital(int ndescargas, int librosvendidos)
-        {
-
-            NDescargas = ndescargas;
-            LibrosVendidos = librosvendidos;
-            LibroDigital = false;
-        }
-
-        //public void LibroDisponible()
-        //{
-
-        //    Estado = true;
-
-        //}
-
-        //public void LibroNoDisponible()
-        //{
-        //    Estado = false;
-
-        //}
-
-        //public void LibroDisponobleDigital()
-        //{
-        //    LibroDigital = true;
-        //}
-
-
+        
     }
 }

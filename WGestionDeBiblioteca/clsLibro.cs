@@ -9,25 +9,26 @@ namespace WGestionDeBiblioteca
     internal class clsLibro
     {
 
-        public string Titulo { get; set; }
-        public string Autor { get; set; }
-        public int ISBN { get; set; }
-        public string Editorial { get; set; }
-        public string Clasificacion { get; set; }
-        public int Valor { get; set; }
-        public string Estado { get; set; }
+        public string TituloLibro { get; set; }
+        public string AutorLibro { get; set; }
+        public string ISBNLibro { get; set; }
+        public string EditorialLibro { get; set; }
+        public string ClasificacionLibro { get; set; }
+        public double ValorLibro { get; set; }
+        public string EstadoLibro { get; set; }
 
 
-        public clsLibro(string titulo, string autor, int isbn, string editorial, string clasificacion, int valor, string estado)
+        public clsLibro(string titulolibro, string autorlibro, string isbnlibro, string editoriallibro, string clasificacionlibro, double valorlibro, string estadolibro)
         {
-            Titulo = titulo;
-            Autor = autor;
-            ISBN = isbn;
-            Editorial = editorial;
-            Clasificacion = clasificacion;
-            Valor = valor;
-            Estado = estado;
+            TituloLibro = titulolibro;
+            AutorLibro = autorlibro;
+            ISBNLibro = isbnlibro;
+            EditorialLibro = editoriallibro;
+            ClasificacionLibro = clasificacionlibro;
+            ValorLibro = valorlibro;
+            EstadoLibro = estadolibro;
             
         }
+
     }
 }
